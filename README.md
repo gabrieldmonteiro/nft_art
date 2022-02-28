@@ -10,9 +10,6 @@ Then, a output folder/collection folder will be created with the arts inside
 
 .
 
-.
-
-.
 
 
 
